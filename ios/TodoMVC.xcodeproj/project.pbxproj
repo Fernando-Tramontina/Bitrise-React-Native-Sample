@@ -188,8 +188,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				pre:
-    					- xcrun instruments -w 'iPhone 7 (10.3)' || sleep 15;
 			);
 			name = TodoMVC;
 			productName = TodoMVC;
